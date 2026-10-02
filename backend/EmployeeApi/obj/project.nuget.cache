@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKCVNEimmow=",
+  "success": true,
+  "projectFilePath": "/Users/aleix.moya/Desktop/projects/Talent Unit/dotNet/DotNetFirstSteps/backend/EmployeeApi/EmployeeApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleix.moya/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/Users/aleix.moya/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "/Users/aleix.moya/Desktop/projects/Talent Unit/dotNet/DotNetFirstSteps/backend/EmployeeApi/EmployeeApi.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/aleix.moya/Desktop/projects/Talent Unit/dotNet/DotNetFirstSteps/backend/EmployeeApi/EmployeeApi.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
